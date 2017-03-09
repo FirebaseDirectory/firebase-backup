@@ -6,8 +6,8 @@ The json file is stored in the folder backup, at the same location as the script
 
 To install the server:
 
-'npm install'
+ 			npm install
 
 To run the server
 
-'node backup.js'
+ 			node backup.js
